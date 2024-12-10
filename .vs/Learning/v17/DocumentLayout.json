@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\SwitchCase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyConsoleApp\\SwitchCase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\TypeCasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyConsoleApp\\TypeCasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyConsoleApp\\Operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\UserInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyConsoleApp\\UserInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Arrayss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyConsoleApp\\Arrayss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchCase.cs",
+              "DocumentMoniker": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\SwitchCase.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\SwitchCase.cs",
+              "ToolTip": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\SwitchCase.cs",
+              "RelativeToolTip": "MyConsoleApp\\SwitchCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:05:18.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeCasting.cs",
+              "DocumentMoniker": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\TypeCasting.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\TypeCasting.cs",
+              "ToolTip": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\TypeCasting.cs",
+              "RelativeToolTip": "MyConsoleApp\\TypeCasting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:47:09.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Operator.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Operator.cs",
+              "ToolTip": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Operator.cs",
+              "RelativeToolTip": "MyConsoleApp\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:47:03.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\UserInput.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\UserInput.cs",
+              "ToolTip": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\UserInput.cs",
+              "RelativeToolTip": "MyConsoleApp\\UserInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:45:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arrayss.cs",
+              "DocumentMoniker": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Arrayss.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Arrayss.cs",
+              "ToolTip": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Arrayss.cs",
+              "RelativeToolTip": "MyConsoleApp\\Arrayss.cs",
+              "ViewState": "AgIAAAMAAACAzczMzMwfwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:42:08.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pradhuman.chaudhary\\OneDrive - I2e Consulting\\Desktop\\Learning\\MyConsoleApp\\Program.cs",
+              "RelativeToolTip": "MyConsoleApp\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAO8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:40:21.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
